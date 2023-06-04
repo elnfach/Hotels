@@ -1,0 +1,25 @@
+Отель "Ebony Loch Hotel & Spa" 		% 253 	% 5 	% 1 	% 98300
+Отель "Сладких снов" 			% 254 	% 3,7 	% 34 	% 10400
+Отель "Сны" 				% 224 	% 2,3 	% 12 	% 2522
+Отель "Golden Lion Hotel & Spa" 	% 23 	% 4,9 	% 20 	% 52255
+Отель "Quiet Bay Resort" 		% 4 	% 3,1 	% 20 	% 8400
+Отель "Parallel Star Resort" 		% 223 	% 3,6 	% 20 	% 12300
+Отель "Serene Dune Hotel" 		% 21 	% 3,9 	% 20 	% 14000
+Отель "King's Vale Hotel & Spa" 	% 223 	% 4,52 	% 20 	% 14400
+Отель "Modest Woodland Resort & Spa" 	% 223 	% 4,2 	% 20 	% 25200
+Отель "Snowy Mountain Hotel" 		% 52 	% 4,5 	% 14 	% 13110
+Отель "Ivory Thicket Hotel & Spa" 	% 52 	% 4,1 	% 20 	% 25220
+Отель "Dual Spire Hotel" 		% 3 	% 4 	% 20 	% 14250
+Отель "Primal Mill Resort" 		% 2223 	% 5 	% 20 	% 68500
+Отель "Peaceful Vertex Hotel" 		% 223 	% 3,2 	% 20 	% 8200
+Отель "Silver Cosmos Resort" 		% 2223 	% 3,5 	% 20 	% 14500
+Отель "Serene Angel Hotel" 		% 42 	% 1,2 	% 20 	% 800
+Отель "Приятных снов" 			% 250 	% 4,7 	% 10 	% 6300
+Отель "Autumn Bliss Resort" 		% 223 	% 4,1 	% 20 	% 42223
+Отель "Crimson Landscape Resort & Spa" 	% 51 	% 4,9 	% 20 	% 1440
+Отель "Ebony Time Hotel" 		% 63 	% 3,8 	% 20 	% 1430
+Отель "Exalted Estate Hotel" 		% 32 	% 4,1 	% 20 	% 2331
+Отель "Supreme Covert Resort" 		% 225 	% 3,4 	% 20 	% 1400
+Отель "Double Cavern Resort" 		% 22 	% 2 	% 20 	% 522
+Отель "Ebony Plaza Resort & Spa" 	% 43 	% 4,2 	% 20 	% 14222
+Отель "Antique Citadel Hotel & Spa" 	% 51 	% 4 	% 20 	% 14050
