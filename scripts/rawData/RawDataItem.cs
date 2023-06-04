@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Hotels.scripts.rawData
 {
     /// <summary>
-    /// Класс RawDataItem, используемый как контейнер для данных иза файла
+    /// Класс RawDataItem, используемый как контейнер для данных из файла
     /// </summary>
     internal class RawDataItem
     {
