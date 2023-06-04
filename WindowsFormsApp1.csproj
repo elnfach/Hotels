@@ -68,16 +68,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="Hotels.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Hotels.Designer.cs">
+      <DependentUpon>Hotels.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="scripts\data\AllHotelsByRating.cs" />
+    <Compile Include="scripts\data\DataStorage.cs" />
+    <Compile Include="scripts\data\Hotel.cs" />
+    <Compile Include="scripts\data\IData.cs" />
+    <Compile Include="scripts\data\NearestHotelByRatedAndPrice.cs" />
+    <Compile Include="scripts\rawData\RawDataItem.cs" />
+    <Compile Include="scripts\Utils.cs" />
+    <EmbeddedResource Include="Hotels.resx">
+      <DependentUpon>Hotels.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -115,8 +122,8 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="data\data.txt" />
     <Content Include="hotel.ico" />
-    <Content Include="icon_app.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

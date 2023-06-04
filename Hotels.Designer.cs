@@ -1,6 +1,6 @@
-﻿namespace WindowsFormsApp1
+﻿namespace Hotels
 {
-    partial class Form1
+    partial class Hotels
     {
         /// <summary>
         /// Обязательная переменная конструктора.
